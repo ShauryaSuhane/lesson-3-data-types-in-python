@@ -1,0 +1,10 @@
+name="shaurya"
+weight=39.5
+age=12
+sad=False
+print(name,type(name))
+print(weight,type(weight))
+print(age,type(age))
+print(sad,type(sad))
+weight=int(weight)
+print(weight,type(weight))
